@@ -1,4 +1,9 @@
-.venv
-D:\hundred_days_of_code_reset\dat31-flash-card-project\data\sample_french_words.csv
-D:\hundred_days_of_code_reset\dat31-flash-card-project\data\words_to_learn.csv
-D:\hundred_days_of_code_reset\dat31-flash-card-project\scratch.py
+# Ignore the virtual environment directory
+.venv/
+
+# Ignore specific CSV files in the data directory
+data/sample_french_words.csv
+data/words_to_learn.csv
+
+# Ignore scratch.py file
+scratch.py
